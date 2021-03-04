@@ -1,3 +1,4 @@
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 
 # PetFeeder---智能宠物投喂器
 >为你的爱宠，量身打造的智能投喂装置。可设置定时投喂计划，投喂量并能实时监测宠物进食情况！
